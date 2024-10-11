@@ -27,6 +27,7 @@ public class TorpedoStore {
       }
     }
   }
+  //ok
 
   Random generator = new Random();
 
